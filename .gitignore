@@ -1,0 +1,46 @@
+# Node.js
+node_modules/
+
+# Dependency directories
+pnpm-lock.yaml
+yarn.lock
+
+# Optional: Logs and runtime data
+logs
+*.log
+pids
+*.pid
+*.seed
+*.pid.lock
+
+# Optional: OS-specific files
+.DS_Store
+Thumbs.db
+
+# Optional: Editor directories and files
+.idea/
+.vscode/
+
+# Optional: Output of build tools
+dist/
+out/
+
+# Optional: Environment variables file
+.env
+.env.local
+
+# Optional: Runtime data
+db.sqlite
+
+# Optional: macOS
+*.DS_Store
+
+# Optional: Windows
+Thumbs.db
+Desktop.ini
+
+# Optional: Linux
+lost+found/
+
+# Optional: npm
+npm-debug.log
