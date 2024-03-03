@@ -4,7 +4,7 @@
   "description": "WebPack starter ",
   "main": "index.js",
   "scripts": {
-   "build":"webpack --mode production"
+   "build":"webpack"
   },
   "author": "Shireen Ansari",
   "license":"SHI",
